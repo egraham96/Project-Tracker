@@ -1,0 +1,64 @@
+.display-4 {
+    font-family: 'Shizuru', sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+.lead {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#timeanddate {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    width: 100%
+}
+
+#cardbox {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img {
+    height: 150px;
+    width: 150px;
+}
+
+.projectbutton {
+    border: 2px solid black;
+    position: relative;
+    top: 5px;
+    left: 40px;
+    height: 40px;
+    width: 150px;
+}
+
+table {
+    width: 70%;
+    display: inline;
+    width: auto;
+
+}
+
+#tableheader{
+    background-color: blue;
+    color: white;
+    font-size:22px;
+}
+
+#table-body{font-size:10px;
+    font-weight:normal;
+    color:black;}
+
+
+
+
+
