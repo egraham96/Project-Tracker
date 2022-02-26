@@ -13,8 +13,8 @@ This application allows software developers to manage projects they are currentl
 
 
 ## Deployed Links:
-* [Link to GitHub Repo](https://github.com/egraham96/Project-Tracker)
 * [Link to Deployed Site](https://egraham96.github.io/Project-Tracker/)
+* [Link to GitHub Repo](https://github.com/egraham96/Project-Tracker)
 
 ## Preview of Working Site:
 ![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
