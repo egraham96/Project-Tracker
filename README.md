@@ -1,7 +1,7 @@
 # Project-Tracker
 
 ## Description:
-This application allows users to manage projects they are currently working on. Users can input the name of the project, type of project, project due date and their hourly rate for the project. Once submitting this information, the application calculates how many days the user has to complete the project and the amount of $ they will make in those days. Users can also delete projects. 
+This application allows software developers to manage projects they are currently working on. Users can input the name of the project, type of project, project due date and their hourly rate for the project. Once they have submitted this information, the application calculates how many days the user has to complete the project and the amount of $ they will make in those days. Users can also delete projects. 
 
 
 ## Built With:
